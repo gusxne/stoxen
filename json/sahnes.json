@@ -1,0 +1,84 @@
+{
+  "usuarios": [
+    {
+      "f": "02082871592",
+      "nome": "Gustavo Henrique",
+      "senha_geral": "0165",
+      "servicos": [
+        {
+          "nome": "Gupy",
+          "email_usuario": "020.828.715-92",
+          "senha": "7485912As@",
+          "link": "https://niduu.com/accounts/signin-nin?"
+        },
+        {
+          "nome": "Gmsuite",
+          "email_usuario": "GM0125069",
+          "senha": "Mateus@2026##$$",
+          "link": "https://erp.gmsuite.com.br/"
+        },
+        {
+          "nome": "CredNosso",
+          "email_usuario": "020.828.715-92",
+          "senha": "7485912As#"
+        },
+        {
+          "nome": "Zimbra",
+          "email_usuario": "Gustavo.ribeiro",
+          "senha": "Mateus2026$$",
+          "link": "https://email.grupomateus.com.br"
+        },
+        {
+          "nome": "Pc",
+          "email_usuario": "Gustavo.ribeiro",
+          "senha": "Mateus@2026##$$"
+        },
+        {
+          "nome": "Atlassian",
+          "email_usuario": "GM0125069@gmail.com",
+          "senha": "",
+          "link": "https://grupomateus.atlassian.net/servicedesk/customer/user/login"
+        },
+        {
+          "nome": "Nexti",
+          "email_usuario": "02082871592",
+          "senha": "0208",
+          "link": "https://grupomateus.nexti.com/"
+        },
+        {
+          "nome": "Gm_Wifi",
+          "senha": "abcabcabca"
+        },
+        {
+          "nome": "Gm_Fast",
+          "senha": "@newapp2020"
+        },
+        {
+          "nome": "Gmsuite",
+          "email_usuario": "GM0122834",
+          "senha": "Bonifacio04ca18S@10",
+          "link": "https://erp.gmsuite.com.br/"
+        }
+      ]
+    },
+    {
+      "f": "278",
+      "senha_geral": "278",
+      "nome": "Prevenção de Perdas",
+      "servicos": [
+        {
+          "nome": "Gm_Wifi",
+          "senha": "abcabcabca"
+        },
+        {
+          "nome": "Gm_Fast",
+          "senha": "@newapp2020"
+        },
+        {
+          "nome": "Celular Empresa",
+          "senha": "0278"
+        }
+      ]
+    }
+  ]
+}

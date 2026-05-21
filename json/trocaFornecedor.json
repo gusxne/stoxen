@@ -1,0 +1,2114 @@
+[
+  {
+    "Comprador": "391 - ALAN CARLOS BA SE",
+    "Fornecedor": "70 -  NESTLE BRASIL LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "391 - ALAN CARLOS BA SE",
+    "Fornecedor": "10609 - CHOCOLATES GAROTO S.A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "391 - ALAN CARLOS BA SE",
+    "Fornecedor": "3354 - GOIASMINAS INDUSTRIA DE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "595 - VICTTOR SERAFIN BA SE",
+    "Fornecedor": "2422 -  ALVOAR LACTEOS NORDESTE S A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "595 - VICTTOR SERAFIN BA SE",
+    "Fornecedor": "10251 -  LBR LACTEOS BRASIL S A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "595 - VICTTOR SERAFIN BA SE",
+    "Fornecedor": "5076 - LATICINIOS BELA VISTA LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "595 - VICTTOR SERAFIN BA SE",
+    "Fornecedor": "2089 - EMBARE INDUSTRIA ALIMENTICIA S.A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "595 - VICTTOR SERAFIN BA SE",
+    "Fornecedor": "219916 - LATICINIOS REZENDE LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "595 - VICTTOR SERAFIN BA SE",
+    "Fornecedor": "153509 - MEAD JOHNSON DO BRASIL COMERCIO E IMPORTACAO DE PR",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "595 - VICTTOR SERAFIN BA SE",
+    "Fornecedor": "7631 -  COOPERATIVA CENTRAL GAUCHA LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "595 - VICTTOR SERAFIN BA SE",
+    "Fornecedor": "70325 - DOCE MINEIRO LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "595 - VICTTOR SERAFIN BA SE",
+    "Fornecedor": "163330 - LATICINIOS REZENDE LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "595 - VICTTOR SERAFIN BA SE",
+    "Fornecedor": "47128 -  PROBENE FOODS INDUSTRIA E COMERCIO DE ALIMENTOS",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "595 - VICTTOR SERAFIN BA SE",
+    "Fornecedor": "124571 - LATICINIOS SANTA MARIA LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "595 - VICTTOR SERAFIN BA SE",
+    "Fornecedor": "51375 -  LEITISSIMO S A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "595 - VICTTOR SERAFIN BA SE",
+    "Fornecedor": "4086 - COOP CENTRAL AURORA ALIMENTOS",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "595 - VICTTOR SERAFIN BA SE",
+    "Fornecedor": "462 - LEITESOL INDUSTRIA E COMERCIO S/A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "359 - ELIANE SANCHES BA SE",
+    "Fornecedor": "113806 -  INDAIA BRASIL AGUAS MINERAIS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "359 - ELIANE SANCHES BA SE",
+    "Fornecedor": "163482 - SAO MIGUEL LOGISTICA E DISTRIBUICAO LTDA",
+    "Troca": "Troca se loja sinalizar 30 dias antes (validade/avaria)",
+    "Obs": ""
+  },
+  {
+    "Comprador": "359 - ELIANE SANCHES BA SE",
+    "Fornecedor": "163581 - IMBASSAI DISTRIBUIDORA DE BEBIDAS E ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "359 - ELIANE SANCHES BA SE",
+    "Fornecedor": "164 -  EBBA AS EMPRESA B DE BEBIDAS ALIM S A",
+    "Troca": "Devolução com 30 dias de antecedência (vencimento/qualidade)",
+    "Obs": ""
+  },
+  {
+    "Comprador": "359 - ELIANE SANCHES BA SE",
+    "Fornecedor": "220811 -  PROGRESSO COMERCIO ATACADISTA LTDA",
+    "Troca": "Troca com 30 dias de antecedência",
+    "Obs": ""
+  },
+  {
+    "Comprador": "359 - ELIANE SANCHES BA SE",
+    "Fornecedor": "3504 - CIA MARANHENSE DE REFRIGERANTES",
+    "Troca": "Troca de avaria por promotor",
+    "Obs": ""
+  },
+  {
+    "Comprador": "359 - ELIANE SANCHES BA SE",
+    "Fornecedor": "460784 -  AGUAS DO PORTO INDUSTRIA E COMERCIO DE AGUAS LTDA",
+    "Troca": "Troca somente avaria no recebimento",
+    "Obs": ""
+  },
+  {
+    "Comprador": "359 - ELIANE SANCHES BA SE",
+    "Fornecedor": "76000 -  TORRES E PEDROSA COMERC AGUAS MINER LTDA",
+    "Troca": "Troca somente avaria no recebimento",
+    "Obs": ""
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "1918 - TRES CORACOES ALIMENTOS S A",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "2107 - PARATI S/A",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "133612 - SANTOS INDUSTRIA E COMERCIO DE ALIMENTOS EIRELI",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "3518 - PANDURATA ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "4615 - MARILAN ALIMENTOS S/A 14-3401-6000 COB.",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "3358 - SAO BRAZ S.A. IND. E COMERCIO ALIMENTOS",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "70237 - CAFE RANCHEIRO AGRO INDUSTRIAL LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "102259 - PETYAN INDUSTRIA DE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "163625 -  INDUSTRIA DE ALIMENTOS GUARANY LTDA",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "43796 - DOMINGOS COSTA INDUSTR S ALIMENTICIAS SA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "1044 - GENERAL MILLS BRASIL ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "9546 - INDUSTRIAS REUNIDAS CORINGA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "162343 - BISCOITO SAO BENEDITO INDUSTRIA E COMERCIO LTDA",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "179535 -  TRIGALI INDUSTRIA E COMERCIO LTDA",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "162342 -  IND E COM DE PROD ALIMENTICIOS ARCO VERDE LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "47750 - PASTIFICIO SELMI S/A",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "171745 - INDUSTRIA E COMERCIO DE MASSAS SAO FRANCISCO EIREL",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "76341 -  GRANDE MOINHO CEARENSE SA",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "181910 - AGROINDUSTRIA E EXPORTACAO CAFE BAHIA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "71217 -  CILASI ALIMENTOS S A",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "1097 - ITAMARATY INDUSTRIA  E COMERCIO S/A",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "246195 -  FABRICA DE BISCOITOS TUPY S A",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "67342 - SORA ALIMENTOS LTDA",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "354 - NEANDRO BRENHA BA SE",
+    "Fornecedor": "180455 -  BISCOITOS GEOPAN LTDA",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "162838-CANDEIAS MELO INDUSTRIA E COMERCIO DE PRODUTOS ALI",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "10145- RICLAN S A",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "108676-JOTAPE INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "807- IND DE PRODUTOS ALIMENTICIOS CORY LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "13004- SANTA HELENA INDUSTRIA DE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "2014-SANCHEZ CANO LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "71686- PLATANO BRASIL DISTRIBUIDORA E EXPORTADO",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "2068-DOCILE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "14041-BRASSUCO IND. COM. ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "22296-HERSHEYS DO DO BRASIL LTDA",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "60439-AGTAL A GUEDES TORREFACAO DE AMENDOIM",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "244153- MMC INDUSTRIA DE PRODUTOS NUTRACEUTICOS LTDA",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "67404- NEUGEBAUER ALIMENTOS S A",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "11382-PERFETTI VAN MELLE BRASIL LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "1261-ARCOR DO BRASIL LTDA.",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "10475-SIMAS INDUSTRIAL DE ALIMENTOS S/A",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "81318- HARIBO BRASIL INDUSTRIA E COMERCIO DE PROD ALIMEN",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "1737-FERRERO DO BRASIL IND DOCEIRA E ALIM LTD",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "3413- VITAO ALIMENTOS LTDA",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "121-DORI-IND E COM DE PROD ALIMENTICIOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "18458-EIC DO BRASIL IND COM DE ALIMENTOS",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "67934-DACOLONIA ALIMENTOS NATURAIS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "9881-LIGA DISTRIBUIDORA E REPRESENTACAO LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "240-LEAO JUNIOR S.A",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "74435-B. N. MASCARENHAS & CIA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "17941-ALIMENTOS TIA SONIA LTDA",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "173138-APIS JORDANS COMERCIO E INDUSTRIA DE PRODUTOS APIC",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "152508- INDUSTRIA DE CHOCOLATES PALADINO EIRELI",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "1988-R G VIEIRA INDUSTRIA COMERCIO LATICINIOS",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "91364- HOMEMADE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "4237- JUNCO INDUSTRIA E COMERCIO LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "229201- NHD FOODS INDUSTRIA  COMERCIO  IMPORTACAO E EXPOR",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "23240-INDUSTRIA E COMERCIO OLIVEIRA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "2106-ZD ALIMENTOS S A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "20181-IND. TORRONE NSA. SRA. MONTEVERGINE LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "1154-PRODUTOS  ERLAN LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "9226- FLORESTAL ALIMENTOS S A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "355 - BOMBONIERE BA SE",
+    "Fornecedor": "151928-F & A INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
+    "Troca": "DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "4100 - CAMIL ALIMENTOS S/A",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "314 -  URBANO AGROINDUSTRIAL LTDA 989",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "162770 -  VIDA COMERCIO E INDUSTRIALIZACAO DE ALIMENTOS LTD",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "163165 - TOZZO & CIA LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "162600 - GADKIN ALIMENTOS S A",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "351 - JOSAPAR JOAQUIM OLIVEIRA SA PARTICIPACOE",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "67411 - NJF INDUSTRIA E COMERCIO LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "10199 - BUNGE ALIMENTOS S.A.",
+    "Troca": "NÃO TEM DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "186049 - OLIM AGRO CEREAIS LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "74311 -  COOPERATIVA REGIONAL AGROPECUAR SUL CATARINENSE",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "170902 - CASA PADIM ATACADO DISTRIBUIDOR DE ALIMENTOS LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "4457 - A D M DO BRASIL LTDA",
+    "Troca": "NÃO TEM DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "118800 - COOPERATIVA TRITICOLA SEPEENSE LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "3446 - CARGILL AGRICOLA S/A",
+    "Troca": "NÃO TEM DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "163394 - SOMAR COMERCIO E TRANSPORTE DE ALIMENTOS LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "163101 - IMPERIAL ALIMENTOS DO NORDESTE LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "163571 - URBANO AGROINDUSTRIAL LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "208828 -  CAMIL ALIMENTOS S A",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "1057 -  COOP ARROZEIRA EXTREMO SUL LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "137623 - COAMO AGROINDUSTRIAL COOPERATIVA",
+    "Troca": "NÃO TEM DEVOLUÇÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "160644 - BELLA GROUP INDUSTRIA E COMERCIO EIRELI",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "187581 -  PURO GRAO IND E COM DE ARROZ E SOJA LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "168891 - RAMPINELLI ALIMENTOS LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "101665 -  INDUSTRIAS BLANCO LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "171795 - COOPERATIVA AGROINDUSTRIAL COOPERJA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "455728 -  GUANAMBI CEREAIS LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "184923 - CEREALISTA PASI LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "31540 - CAMIL ALIMENTOS S A",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "81445 - ARROZEIRA PELOTAS IND E COM CEREAIS LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "3739 - REALENGO ALIMENTOS LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "75885 -  BENDO ALIMENTOS EIRELI",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "74373 - REALENGO ALIMENTOS LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "17283 - RMR AGROINDUSTRIA, COMERCIO ATACADISTA BENEFICIAM",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "226230 -  VITAL ALIMENTOS LTDA",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "169119 - VALE BAHIA INDUSTRIA E COMERCIO DE ALIMENTOS LTD",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "350 - VALDINO MUNIZ BA/SE",
+    "Fornecedor": "1094 - NELSON WENDT E CIA. LTDA.",
+    "Troca": "Devolução: problema na selagem/qualidade/gorgulho/praga",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "2124-CICOPAL-IND COM PROD ALIM LTDA.",
+    "Troca": "SIM",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "2626- AMAFIL INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
+    "Troca": "SIM",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "108676-JOTAPE INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
+    "Troca": "SIM",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "19943-DUSUL ALIMENTOS LTDA",
+    "Troca": "SIM",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "5076- LATICINIOS BELA VISTA LTDA",
+    "Troca": "SIM",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "48591-VIGOR ALIMENTOS S A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "70428-AB BRASIL INDUSTRIA E COM DE ALIMENTOS",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "7133-ICOFORT AGROINDUSTRIAL LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "1209-CASADOCE IND E COMERCIO ALIM LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "1577- TAMBAU INDUSTRIA ALIMENTICIA LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "73133-RUAH ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "12909-HARALD IND E COM DE ALIMENTOS",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "325-SOCOCO S.A - INDUSTRIAS ALIMENTICIAS",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "41123-NESTLE BRASIL LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "2695- GOIAS VERDE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "11290- UNILEVER BRASIL INDUSTRIAL LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "41660- IND E COM DE PROD ALIM CEPERA LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "8117- HORTUS AGROINDUSTRIAL SA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "3446-CARGILL AGRICOLA S/A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "151586-DUCOCO ALIMENTOS S A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "175606- IND E COM DE CHOCOLATES FINOS DO BRASIL LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "19895- LIOTECNICA TECNOLOGIA EM ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "70325-DOCE MINEIRO LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "12923-AJINOMOTO DO BRASIL INDUSTRIA E COMERCIO",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "1968-VALE FERTIL IND ALIMENTICIAS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "2106-ZD ALIMENTOS S A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "723- PREDILECTA ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "3554- NORTE SALINEIRA S A IND E COM NORSAL",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "125785- INDUSTRIA DE ALIMENTOS COMPOSTELA LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "1044-GENERAL MILLS BRASIL ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "2619-FUGINI ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "54455-NACOM GOYA INDUSTRIA E COMERCIO DE ALIME",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "86272-IND DE PRODUTOS ALIMS MAVALE RIO LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "20043-ITAIQUARA ALIMENTOS S.A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "20636- ALISPEC IND E COM PROD ALIMENTICIOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "50712-MARIZA IND E COM DE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "41121-MAVALERIO ALIMENTOS DO NORDESTE LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "81045-NACOM GOYA INDUS COMERCIO ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "233408- INACERES INDUSTRIAL E COMERCIAL LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "599- IND E COM DE PROD ALIM CEPERA LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "410 - ANA LUISA FOOD BA/SE",
+    "Fornecedor": "75612- VALE FERTIL INDUSTRIAS ALIMENTICIAS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "76- VINICOLA SALTON S A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "205-IND D BEB JOAQUIM THOMAZ AQUINO FILHO SA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "348- CRS BRANDS INDUSTRIA E COMERCIO SA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "370-PORTO A PORTO COM IMPORT E EXPORT  LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "817-GENERAL BRANDS BRA IND COM PROD ALIM LTD",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "892- BACARDI MARTINI DO BRASIL IND E COM LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "1739-BARRINHAS COM E IMP D BEB E CEREAIS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "2425-SOCIEDADE DE BEBIDAS MIORANZA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "2867-INTERFOOD IMPORTACAO LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "3084-HILTON NAVES ARAUJO",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "3231-VINHOS RANDON LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "3626- ENGARRAFAMENTO COROA LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "3687-AURORA BEBIDAS DE ALIMENTOS FINOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "5057-REAL COMERCIAL LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "5096-ADEGA ALENTEJANA COMERCIO IMP.EXT.LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "5785- VITIVINICOLA TROPICAL LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "6462-HYPERA S A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "6886- INDUSTRIA E COMERCIO DE BEBIDAS PINHEIRENSE LTDA",
+    "Troca": "SIM",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "8224-VCT BRASIL IMPORT E EXPORT LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "8355-VITIVINICOLA SANTA MARIA S.A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "9248- MOET HENNESSY DO BRASIL VINHOS E DESTILADOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "10026-DISTILLERIE STOCK DO BRASIL LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "13010-DUBAR INDUSTRIA E COMERCIO DE BEB LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "13829- BROWN FORMAN BEV WORLDW COM LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "16231-FAMIGLIA ZANLORENZI S A",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "30398- EBB EMPRESA BRASILEIRA DE BEBIDAS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "55402-ADEGA ALENTEJANA COM IMP E EXP LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "58452-CERVEJARIA PETROPOLIS DE PERNAMBUCO LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "70660-CANTU IMPORTADORA DE BEBIDAS LTDA",
+    "Troca": "DESTILADO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "71699-CENTROAIDAR INDUSTRIA E COMERCIO DE BEBI",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "72374-QUEIROZ GALVAO ALIMENTOS SA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "82145-DESTILARIA DE CACHACA QUARESMA E C DA AMAZONIA LTD",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "95102- ENGARRAFAMENTO PITU LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "98434-WF NEGOCIOS E COMERCIO EIRELI",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "102010-BEAM SUNTORY BRASIL IMPORT E COM DE BEBIDIDAS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "102411-VINICOLA PIZZATO LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "115259-QUALIMPOR IMPORT E EXPORT DE PRODS ALIMENTICIOS",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "150510-STOCK DISTRIBUIDORA LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "163465-TERROIR DO SAO FRANCISCO COM E IND DE VINHOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "163757-MIX DO BRASIL INDUSTRIA E COMERCIO DE ALIMENTOS EI",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "163760-NB DO BRASIL COMERCIO ATACADISTA DE ALIMENTOS E BE",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "170778-GENE INDUSTRIA E COMERCIO DE ALIMENTOS E BEBIDAS L",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "171109-BEBIDAS BRASIL EIRELI",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "171690-PARAMAR COMERCIO E INDUSTRIA DE BEBIDAS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "190735- ENGARRAFAMENTO FUNDO DO VALE FABRICACAO DE AGUARD",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "240726- WINE CONCEPT BRASIL IMPOR E EXPOR DE VINHOS",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "258303- WINE CONCEPT BRASIL   IMPORTACAO E EXPORTACAO DE",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "634- DIAS IMPORTADORA DE VINHOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "1786- NUTRIZA AGROINDUSTRIAL DE ALIMENTOS S A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "2131-VINICOLA MIOLO LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "10341-SOCIEDADE DE BEBIDAS PANIZZON LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "12288-SELETA E BOAZINHA,IND. E COM. IMP. E EXP",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "32468-SOST INDUSTRIA E COM DE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "70275-ALIANCA VINHOS DE PORTUGAL S/A",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "79028-MCS COM DE BEB E PROD ALIMENT EIRELLI",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "80285-ZAHIL IMPORTADORA LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "80572-CASA VALDUGA VINHOS FINOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "81198-DEL MAIPO COMERCIO E REPRESENTACOES LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "115299-EPICE IMPORTACAO COMERCIO E REPRESENTACOES LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "132464-GRAND CRU IMPORTADORA LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "162513- CACHACARIA MATUTA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "146735-BODEGAS FAUSTINO SL",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "409346- ORGANIZACAO VERDEMAR LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "132- INDUSTRIA DE BEBIDAS PARIS LTDA   EM RECUPERACAO",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "2159-COOP VINICOLA AURORA LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "76512-MISTRAL IMPORTADORA LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "20269-NOR IMPORT COMERCIAL DE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "54944-VINICOLA LIDIO CARRARO LTDA   EPP",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "30203-FAZENDA SALINAS IND  COM DE BEBIDAS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "1055- COOPERATIVA AGROINDUSTRIAL NOVA ALIANCA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Ajuda com rebaixa"
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "210243- MSLR COMERCIO ATACADISTA DE BEBIDAS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "295469- S P IMPORTADORA LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "600 - DANIEL ANDRADE BA/SE",
+    "Fornecedor": "441105- MEGA WINE COMERCIO DE VINHOS LTDA",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "11290- UNILEVER BRASIL INDUSTRIAL LTDA",
+    "Troca": "NÃO",
+    "Obs": "Negocia rebaixa até 60 dias antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "125785- INDUSTRIA DE ALIMENTOS COMPOSTELA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "2619-FUGINI ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "3554-NORTE SALINEIRA S/A.IND.E COM.NORSAL",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "442490- INDUSTRIA DE CONDIMENTOS SABOREAR LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "3446-CARGILL AGRICOLA S/A",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "129-CONSERVAS ODERICH S.A",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "143556-F & O INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "91034-SABORATIVO EMPREENDIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "325-SOCOCO S.A - INDUSTRIAS ALIMENTICIAS",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "17359-CRUSOE FOODS IND IMP E EXP LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "2695-GOIAS VERDE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "723- PREDILECTA ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "457673- ACHEI INDUSTRIA E COMERCIO DE PRODUTOS ALIMENTICI",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "1209-CASADOCE IND E COMERCIO ALIM LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "256751- MATA NORTE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "1577-TAMBAU INDUSTRIA ALIMENTICIA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "10195-GOMES DA COSTA ALIMENTOS S/A",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "70428-AB BRASIL INDUSTRIA E COM DE ALIMENTOS",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "70428-AB BRASIL INDUSTRIA E COM DE ALIMENTOS",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "70011-SOVENA PORTUGAL CONSUMER GOODS S A",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "6475-COSTA MARINE COM PROD ALIMENTICIOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "2626- AMAFIL INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "6227-L.PRAXEDES GOMES",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "212853- DENDE LIGHT IND DE PROD ALIMENTICIOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "229675- INDUSTRIA DE TEMPEROS E ALIMENTOS FORTELLI LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "162981-GALLO WORLDWIDE LDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "48591-VIGOR ALIMENTOS S A",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "192246-M W INDUSTRIA E EMPREENDIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "69913-INDUSTRIAS UNIDAS SM LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "10139-RIVOLI INDUSTRIA E COMERCIO LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "144389-AGRANOR ALIMENTOS DO NORDESTE LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "2180-COCO DO VALE {IND ALIM DO VALE LTDA}",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "442494- SERGIO ROBERTO GOMES DA SILVA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "9112-DUCOCO PRODUTOS ALIMENTICIOS S/A",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "7133-ICOFORT AGROINDUSTRIAL LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "370-PORTO A PORTO COM IMPORT E EXPORT  LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "73133-RUAH ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "12923-AJINOMOTO DO BRASIL INDUSTRIA E COMERCIO",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "1968-VALE FERTIL IND ALIMENTICIAS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "233408- INACERES INDUSTRIAL E COMERCIAL LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "80346-SOCIETA PER AZIONE LUCCHESE OLII E VINI",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "2106-ZD ALIMENTOS S A",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "214684- SANDELEH ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "177222-MIL INDUSTRIAL COSTA DO DENDE LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "6842-PRODUTOS TIA DEDE LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "41660- IND E COM DE PROD ALIM CEPERA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "20092-GLOBALBEV BEBIDAS E ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "9144-COPRA INDUSTRIAL ALIMENTICIA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "3518- PANDURATA ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "87568-OLEOFORFAIT SA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "54455-NACOM GOYA INDUSTRIA E COMERCIO DE ALIME",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "19943-DUSUL ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "179503- MARANATA INDUSTRIA E COMERCIO DE SAL LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "182645-LUSOROYAL IMPORTACAO E EXPORTACAO LDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "12909-HARALD IND E COM DE ALIMENTOS",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "70325-DOCE MINEIRO LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "20043-ITAIQUARA ALIMENTOS S.A",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "161635-DOMPABLYTO INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "239772- DIOMACH INDUSTRIA E COMERCIO DE ALIMENTOS E BEBID",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "22675-IRMAOS RAIOLA E CIA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "5076- LATICINIOS BELA VISTA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "151586-DUCOCO ALIMENTOS S A",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "8117- HORTUS AGROINDUSTRIAL SA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "3121-F C OLIVEIRA & CIA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "41123-NESTLE BRASIL LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "3685-SAKURA NAKAYA ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "70515-PONZAN  INDUS E COM DE PRODUT ALIMENTICI",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "175606- IND E COM DE CHOCOLATES FINOS DO BRASIL LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "19895-LIOTECNICA TECNOLOGIA EM ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "128252-MANUEL SERRA S A",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "1044-GENERAL MILLS BRASIL ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "282-ANGELO AURICCHIO & CIA LTDA.",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "33361-MERCANTIL MOR LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "599- IND E COM DE PROD ALIM CEPERA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "81045-NACOM GOYA INDUS COMERCIO ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "56548-F C OLIVEIRA & CIA LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "223167- CAMARO DA SERRA INDUSTRIA E COMERCIO LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "10998-INDUSTRIA E COMERCIO XAVANTE LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "20636- ALISPEC IND E COM PROD ALIMENTICIOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "74529-BALDONI PRODUTOS NATURAIS COM INDUSTRIA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "41121-MAVALERIO ALIMENTOS DO NORDESTE LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "37515- REGES E REGES LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "50712-MARIZA IND E COM DE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "75612- VALE FERTIL INDUSTRIAS ALIMENTICIAS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "86272-IND DE PRODUTOS ALIMS MAVALE RIO LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "72412-GALLO BRASIL DISTRIBUICAO E COMERCIO LTD",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "9425-PORTO FELIZ S/A",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "71638-TANGARA IMPORTADORA E EXPORTADORA S/A",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "97672- DUAS RODAS INDUSTRIAL SA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "817-GENERAL BRANDS BRA IND COM PROD ALIM LTD",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "40910- DUAS RODAS NORDESTE INDUSTRIA DE ALIMENTOS LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "14965 -  HYPERA S A",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "51481-NUTRIMENTAL SA IND E COM DE ALIMENTOS",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "643-EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "3596-J N DE SOUSA VALADAO COMERCIO",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "400 - ANA LUISA FRANCA BA/SE",
+    "Fornecedor": "71364-BM3 IMPORTACAO E EXPORTACAO LTDA",
+    "Troca": "NÃO",
+    "Obs": "Apoio na rebaixa antes do vencimento"
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "468557- PIZZA FINISSIMA LTDA",
+    "Troca": "100% TROCA",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "28280-PRODUTOS ALIMENTICIOS CEFER LTDA",
+    "Troca": "100% TROCA",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "ITAMBE",
+    "Troca": "NÃO",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "FRUTAP ALIMENTOS S A",
+    "Troca": "SIM 100% POR VALIDADE",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "MARIANNA (NATURAL GURT)",
+    "Troca": "SIM 100% POR VALIDADE",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "DIGUDINHO",
+    "Troca": "SIM 100% POR VALIDADE",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "ALVOAR BETANIA",
+    "Troca": "SIM 100% POR VALIDADE",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "DAIRY NESTLES DPA",
+    "Troca": "SIM 100% POR VALIDADE",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "DANONE",
+    "Troca": "SIM 100% POR VALIDADE (exceto YOPRO PROTEINA)",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "VIGOR",
+    "Troca": "SIM 100% POR VALIDADE",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "LACTALIS (ELEGE BATAVO PORCO DE CALDAS E PRESIDENT)",
+    "Troca": "NÃO (mas paga 100% perdas via acordo comercial)",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "LACTALIS PARMALAT",
+    "Troca": "SIM 100% POR VALIDADE",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "VALE DOURADO (PALMEIRAS DOS INDIOS)",
+    "Troca": "SIM 100% POR VALIDADE",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "ISIS (BELO VALE)",
+    "Troca": "SIM 100% POR VALIDADE",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "NATURAL VACA (NUTRIR)",
+    "Troca": "SIM 100% POR VALIDADE",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "VIDA VEG",
+    "Troca": "SIM 100% POR VALIDADE",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "VERDE CAMPO",
+    "Troca": "SIM 100% POR VALIDADE",
+    "Obs": ""
+  },
+  {
+    "Comprador": "",
+    "Fornecedor": "TREVO",
+    "Troca": "SIM 100% POR VALIDADE",
+    "Obs": ""
+  }
+]

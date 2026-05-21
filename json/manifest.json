@@ -1,0 +1,27 @@
+{
+    "name": "Stoxen",
+    "short_name": "Stoxen",
+    "start_url": "/index.html",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#000",
+    "theme_color": "#fff",
+    "description": "Ferramenta Desenvolvida Para Ajudar na Operação. Desde 13/01/2026",
+    "icons": [
+        {
+            "src": "/assets/image/shortcut.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/image/shortcut.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/image/shortcut.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

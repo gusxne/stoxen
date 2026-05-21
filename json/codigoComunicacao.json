@@ -1,0 +1,72 @@
+{
+  "cargos": [
+    {"codigo": "ALPHA 1", "setor": "Gerente Geral Loja"},
+    {"codigo": "ALPHA 2", "setor": "Subgerente Loja"},
+    {"codigo": "ALPHA 3", "setor": "Gerente Prevenção Perdas"},
+    {"codigo": "ALPHA 4", "setor": "Gerente Depósito"},
+    {"codigo": "ALPHA 5", "setor": "Gerente Reposição"},
+    {"codigo": "ALPHA 6", "setor": "Gerente Açougue"},
+    {"codigo": "ALPHA 7", "setor": "Gerente Frios"},
+    {"codigo": "ALPHA 8", "setor": "Gerente Hortifruti"},
+    {"codigo": "ALPHA 9", "setor": "Gerente Frente Caixa"},
+    {"codigo": "ALPHA 10", "setor": "Técnico Manutenção"},
+    {"codigo": "ALPHA 11", "setor": "Responsável Limpeza"},
+    {"codigo": "ALPHA 12", "setor": "Gerente Padaria"},
+    {"codigo": "ALPHA 13", "setor": "Gerente Peixaria"},
+    {"codigo": "ADM", "setor": "Gerente ADM"},
+    {"codigo": "CPD", "setor": "Assistente TI"},
+    {"codigo": "RM", "setor": "Recebimento/Faturamento"},
+    {"codigo": "RH", "setor": "Recursos Humanos"},
+    {"codigo": "SESMT", "setor": "Segurança Trabalho"},
+    {"codigo": "P1", "setor": "Posto Entrada de Loja"},
+    {"codigo": "P2", "setor": "Posto Saída de Loja"},
+    {"codigo": "P3", "setor": "Portaria Funcionário"},
+    {"codigo": "P4", "setor": "Docas Recebimento"},
+    {"codigo": "P5", "setor": "Posto CFTV"},
+    {"codigo": "P6", "setor": "Piso de Loja"},
+    {"codigo": "BRAVO 1", "setor": "Guarita Portão Doca"},
+    {"codigo": "BRAVO 2", "setor": "Vigilante Estacionamento"},
+    {"codigo": "DELTA 1", "setor": "Boteco Gelado"},
+    {"codigo": "DELTA 2", "setor": "Mix Mais"},
+    {"codigo": "DELTA 3", "setor": "Balcão Atacado"},
+    {"codigo": "DELTA 4", "setor": "Gerência"},
+    {"codigo": "DELTA 5", "setor": "Sala Financeiro"},
+    {"codigo": "DELTA 6", "setor": "Caixas 24h"},
+    {"codigo": "3 - 2", "setor": "Sim"},
+    {"codigo": "3 - 1", "setor": "Não"}
+  ],
+  "codigos_por_cor": [
+    {"cor": "Amarelo", "representacao": "Recolhimento Carro Forte"},
+    {"cor": "Verde", "representacao": "Saída de Volume de Mercadorias"},
+    {"cor": "Vermelho", "representacao": "Presença de suspeito ou risco. Não liberar retirada de sangrias"},
+    {"cor": "Azul", "representacao": "Abordagem após a saída"}
+  ],
+  "codigos_alfanumericos": [
+    {"codigo": "QAP", "descricao": "Estou na escuta"},
+    {"codigo": "QRA", "descricao": "Quem fala"},
+    {"codigo": "QRU", "descricao": "Problema ou sinistro"},
+    {"codigo": "QSJ", "descricao": "Dinheiro"},
+    {"codigo": "QRM", "descricao": "Interferência"},
+    {"codigo": "QRV", "descricao": "Prossiga"},
+    {"codigo": "QRD", "descricao": "Deslocar/se a caminho"},
+    {"codigo": "QTH", "descricao": "Local destino"},
+    {"codigo": "QRX", "descricao": "Aguarde"},
+    {"codigo": "QTO", "descricao": "Banheiro"},
+    {"codigo": "QRF", "descricao": "Refeitório/intervalo"},
+    {"codigo": "QTI", "descricao": "Deslocamento"},
+    {"codigo": "QRS", "descricao": "Mais devagar"},
+    {"codigo": "QTC", "descricao": "Mensagem/assunto"},
+    {"codigo": "QUD", "descricao": "Urgente"},
+    {"codigo": "QTX", "descricao": "Alerta"},
+    {"codigo": "QRO", "descricao": "Ronda"},
+    {"codigo": "QSL", "descricao": "Entendido"},
+    {"codigo": "TKS", "descricao": "Obrigado"},
+    {"codigo": "QTR", "descricao": "Hora e minuto"}
+  ],
+  "normas_e_conduta": [
+    {
+      "area": "Recebimento",
+      "instrucao": "Gerar relatório de validade após o recebimento."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "informacoes_tara": [
+    {
+      "setor": "Açougue",
+      "itens": [
+        {"item": "Gancho G", "tara": "500g"},
+        {"item": "Gancho P", "tara": "390g"},
+        {"item": "Pratinho P", "tara": "10g"},
+        {"item": "Plástico", "tara": "100g"},
+        {"item": "Balsa P", "tara": "20,5Kg"},
+        {"item": "Balsa PF", "tara": "25,5Kg"},
+        {"item": "Balsa GF", "tara": "32,5Kg"}
+      ]
+    },
+    {
+      "setor": "Peixaria",
+      "itens": [
+        {"item": "Pratinho P", "tara": "6g"},
+        {"item": "Caixa full", "tara": "1,928kg"},
+        {"item": "Caixa furos", "tara": "1,800kg"}
+      ]
+    },
+    {
+      "setor": "Frios",
+      "itens": [
+        {"item": "Caixa", "tara": "2,212kg"}
+      ]
+    },
+    {
+      "setor": "Hortifruti",
+      "itens": [
+        {"item": "Caixa verde", "tara": "2,5Kg"},
+        {"item": "Caixa branca", "tara": "35kg"},
+        {"item": "Caixa verm/azul", "tara": "2,5Kg"}
+      ]
+    },
+    {
+      "setor": "Padaria",
+      "itens": [
+        {"item": "Caixa", "tara": "1,782Kg"}
+      ]
+    },
+    {
+      "setor": "Loja",
+      "itens": [
+        {"item": "Carrinho P", "tara": "17kg"},
+        {"item": "Carrinho G", "tara": "22,5kg"},
+        {"item": "Carrinho Prancha", "tara": "33,5kg"},
+        {"item": "Carrinho Reposição", "tara": "28kg |__"},
+        {"item": "Stretch Inteiro", "tara": "500g"}
+      ]
+    }
+  ]
+}

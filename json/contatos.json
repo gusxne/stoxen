@@ -1,0 +1,562 @@
+{
+    "contatos": [
+        {
+            "nome": "ADEILTON SILVA DA COSTA",
+            "email": "adeilton.silva@grupomateus.com.br",
+            "telefone": "9881137405",
+            "cargo": "COMPRADOR SENIOR"
+        },
+        {
+            "nome": "ADRIELE AMELIA SANTOS PITANGUEIRA",
+            "email": "adriele.pitangueira@grupomateus.com",
+            "telefone": "7192415237",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "ALAN CARLOS MOREIRA LIMA",
+            "email": "alan.moreira@grupomateus.com",
+            "telefone": "9891987442",
+            "cargo": "COMPRADOR SENIOR"
+        },
+        {
+            "nome": "ALBERT VINICIUS DA CRUZ SANTOS",
+            "email": "albert.santos@grupomateus.com.br",
+            "telefone": "79998878177",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "ALEX OLIVEIRA DE JESUS",
+            "email": "alex.oliveira@grupomateus.com.br",
+            "telefone": "7187384657",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "ALICE MONTEIRO COSTA",
+            "email": "alice.mcosta@grupomateus.com.br",
+            "telefone": "7188463228",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "ANA BARBOZA",
+            "email": "ana.ribeiro@grupomateus.com",
+            "telefone": null,
+            "cargo": "RM JUAZEIRO BA"
+        },
+        {
+            "nome": "ANA KARINE CARNEIRO",
+            "email": "karine.carneiro@grupomateus.com.br",
+            "telefone": "8592755330",
+            "cargo": "COMPRADOR SENIOR"
+        },
+        {
+            "nome": "ANDRESSA PINTO LIMA",
+            "email": "andressa.pinto@grupomateus.com.br",
+            "telefone": "71991639832",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "ANE EMANUELLE DOS SANTOS FERRAZ",
+            "email": "andressa.pinto@grupomateus.com.br",
+            "telefone": "7199590133",
+            "cargo": "COMPRADOR PLENO"
+        },
+        {
+            "nome": "ARIANE",
+            "email": "ariane.silva@grupomateus.com",
+            "telefone": "7481509479",
+            "cargo": "RM JUAZEIRO BA"
+        },
+        {
+            "nome": "CAIO",
+            "email": "caio.barbosa@grupomateus.com",
+            "telefone": "7184704474",
+            "cargo": "ASSISTENTE DE JOSE SOUZA JUNIOR"
+        },
+        {
+            "nome": "CAMILA AMARAL OLIVEIRA",
+            "email": "camila.amaral@grupomateus.com.br",
+            "telefone": "7183182323",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "CARLA JORDÂNIA",
+            "email": "carla.jordania@grupomateus.com.br",
+            "telefone": "98987699702",
+            "cargo": "SAC INTERNO 336"
+        },
+        {
+            "nome": "CARLOS EDUARDO DA SILVA COELHO",
+            "email": "eduardo.coelho@grupomateus.com.br",
+            "telefone": "9882677587",
+            "cargo": "GERENTE COMERCIAL DE CATEGORIA"
+        },
+        {
+            "nome": "CARLOS EVERARDO CARREIRO VIEIRA",
+            "email": "everardo@grupomateus.com.br",
+            "telefone": "9981465753",
+            "cargo": "GERENTE COMERCIAL"
+        },
+        {
+            "nome": "CAROLINA DE SOUZA BRANDÃO",
+            "email": "carolina.brandao@grupomateus.com.br",
+            "telefone": "7187800080",
+            "cargo": "GERENTE COMERCIAL DE CATEGORIA"
+        },
+        {
+            "nome": "CHAD",
+            "email": null,
+            "telefone": "98999630955",
+            "cargo": "TRANSPORTE REGIONAL 336"
+        },
+        {
+            "nome": "CHARLES",
+            "email": null,
+            "telefone": "87991282456",
+            "cargo": "SUPERVISOR DE LOGÍSTICA – COCA-COLA"
+        },
+        {
+            "nome": "CRISTIANE SANTO SÉ",
+            "email": null,
+            "telefone": "7188395949",
+            "cargo": "GERENTE COMERCIAL DE CATEGORIA"
+        },
+        {
+            "nome": "DANIEL NONATO ANDRADE SANTOS",
+            "email": "daniel.santos@grupomateus.com.br",
+            "telefone": "7191591677",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "DAYANA SANTOS DA COSTA",
+            "email": "dayana.costa@grupomateus.com.br",
+            "telefone": "7199506391",
+            "cargo": "COMPRADOR JUNIOR"
+        },
+        {
+            "nome": "DEILTON DA SILVA",
+            "email": "deilton.silva@grupomateus.com.br",
+            "telefone": "7182061010",
+            "cargo": "COMPRADOR SENIOR"
+        },
+        {
+            "nome": "DIEGO SILVA DA HORA",
+            "email": "diego.hora@grupomateus.com.br",
+            "telefone": "7182084830",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "EDILA",
+            "email": null,
+            "telefone": "8792035491",
+            "cargo": "REFEITÓRIO"
+        },
+        {
+            "nome": "EDILENE QUEIROZ SANTOS",
+            "email": "edilene.santos@grupomateus.com.br",
+            "telefone": "7192046156",
+            "cargo": "COMPRADOR SENIOR"
+        },
+        {
+            "nome": "EDUARDO PRASERES",
+            "email": null,
+            "telefone": "98999630955",
+            "cargo": "COORDENADOR DE LOGÍSTICA 336"
+        },
+        {
+            "nome": "EFRAIM HELLOM RIBEIRO DE ARAUJO",
+            "email": "efraim.araujo@grupomateus.com.br",
+            "telefone": "9882044557",
+            "cargo": "GERENTE COMERCIAL DE CATEGORIA"
+        },
+        {
+            "nome": "ELIANE DE JESUS SANCHES RODRIGUES",
+            "email": "eliane.rodrigues@grupomateus.com.br",
+            "telefone": "9881771935",
+            "cargo": "COMPRADOR SENIOR"
+        },
+        {
+            "nome": "ELISANGELA ALMEIDA REIS",
+            "email": "elisangela.reis@grupomateus.com.br",
+            "telefone": "7196860777",
+            "cargo": "COMPRADOR SENIOR"
+        },
+        {
+            "nome": "FELIPE SOUZA FELIX DE SANTANA",
+            "email": "felipe.felix@grupomateus.com.br",
+            "telefone": "7197044238",
+            "cargo": "COMPRADOR JUNIOR"
+        },
+        {
+            "nome": "FELIPE VICENTE RODRIGUES",
+            "email": "felipe.vicente@grupomateus.com.br",
+            "telefone": "11948897779",
+            "cargo": "COMPRADOR JUNIOR"
+        },
+        {
+            "nome": "FERNANDO MARTINS CIRQUEIRA",
+            "email": "fernando.martins@grupomateus.com.br",
+            "telefone": "9881190324",
+            "cargo": "GERENTE COMERCIAL DE CATEGORIA"
+        },
+        {
+            "nome": "GABRIELE DA SILVA CANDIDO",
+            "email": "gabriele.candido@grupomateus.com.br",
+            "telefone": "7183008598",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "GENILDES AZEVEDO ANUNCIACAO",
+            "email": "genildes.azevedo@grupomateus.com.br",
+            "telefone": "7184017103",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "GILMAR BRAGA BARRETO JUNIOR",
+            "email": "gilmar.junior@grupomateus.com.br",
+            "telefone": "7192711573",
+            "cargo": "COMPRADOR JUNIOR"
+        },
+        {
+            "nome": "HASSAN DE SOUZA VENANCIO",
+            "email": "hassan.venancio@grupomateus.com.br",
+            "telefone": "7192534829",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "HELDER ALVES DA ROCHA",
+            "email": "helder.rocha@grupomateus.com.br",
+            "telefone": "7187013544",
+            "cargo": "COMPRADOR JUNIOR"
+        },
+        {
+            "nome": "HELENILSON DA SILVA CRUZ",
+            "email": "helenilson.cruz@grupomateus.com.br",
+            "telefone": "7181214005",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "HERICK WENDEL CARVALHO SANTOS",
+            "email": "herick.santos@grupomateus.com.br",
+            "telefone": "8188520046",
+            "cargo": "GERENTE REGIONAL DE VENDAS"
+        },
+        {
+            "nome": "IGOR BATISTA DA PAZ",
+            "email": "igor.paz@grupomateus.com.br",
+            "telefone": "7184278249",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "ISAIAS SANTOS DE JESUS",
+            "email": "isaias.djesus@grupomateus.com.br",
+            "telefone": "7187970825",
+            "cargo": "COMPRADOR JUNIOR"
+        },
+        {
+            "nome": "IZANDRO JORGE AROUCHA ROCHA",
+            "email": "izandro.rocha@grupomateus.com.br",
+            "telefone": "9891121585",
+            "cargo": "GERENTE COMERCIAL DE CATEGORIA"
+        },
+        {
+            "nome": "JAMILE SANTOS DIAS",
+            "email": "jamile.dias@grupomateus.com.br",
+            "telefone": "7199012220",
+            "cargo": "COMPRADOR JUNIOR"
+        },
+        {
+            "nome": "JOAO",
+            "email": null,
+            "telefone": "7199127345",
+            "cargo": "ASSISTENTE DE MARCO E NILSON"
+        },
+        {
+            "nome": "JOAO PAULO SANTOS FIMINELLO",
+            "email": "joao.fiminello@grupomateus.com.br",
+            "telefone": "7193372363",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "JOICE COELHO",
+            "email": null,
+            "telefone": "7188395949",
+            "cargo": "GERENTE COMERCIAL DE CATEGORIA"
+        },
+        {
+            "nome": "JONAS DA SILVA RIBEIRO",
+            "email": "jonas.dasilva@grupomateus.com.br",
+            "telefone": "9984584921",
+            "cargo": "COMPRADOR SENIOR"
+        },
+        {
+            "nome": "JONAS FERNANDES OLIVEIRA",
+            "email": "jonas.fernandes@grupomateus.com.br",
+            "telefone": "7199384285",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "JOSE SOUZA JUNIOR",
+            "email": "jose.sjunior@grupomateus.com.br",
+            "telefone": null,
+            "cargo": "COMPRADOR"
+        },
+        {
+            "nome": "JUCIELE DAS NEVES ENCARNACAO DE SOUZA",
+            "email": "juciele.souza@grupomateus.com.br",
+            "telefone": "7196049358",
+            "cargo": "COMPRADOR JUNIOR"
+        },
+        {
+            "nome": "JUNIOR SOUZA",
+            "email": null,
+            "telefone": "7188395949",
+            "cargo": "GERENTE COMERCIAL DE CATEGORIA"
+        },
+        {
+            "nome": "LEILA CERQUEIRA SANTOS",
+            "email": "leila.santos@grupomateus.com.br",
+            "telefone": "71992766768",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "LUCAS ALVES DOS SANTOS",
+            "email": "lucas.dsantos@grupomateus.com.br",
+            "telefone": "7191395101",
+            "cargo": "COMPRADOR JUNIOR"
+        },
+        {
+            "nome": "LUCILANDIA DIAS DE SOUSA",
+            "email": "lucilandia@grupomateus.com.br",
+            "telefone": "9882811456",
+            "cargo": "COMPRADOR SENIOR"
+        },
+        {
+            "nome": "LUCINEIDE",
+            "email": null,
+            "telefone": "98983457007",
+            "cargo": "GERENTE COMERCIAL DE CATEGORIA"
+        },
+        {
+            "nome": "LUZMILA DE OLIVEIRA CERQUEIRA",
+            "email": "luzmila.cerqueira@grupomateus.com.br",
+            "telefone": "7187763737",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "MARCELA TEIXEIRA",
+            "email": "marcela.teixeira@grupomateus.com",
+            "telefone": "7184526454",
+            "cargo": "ASSISTENTE DE ELIANE DE JESUS SANCHES"
+        },
+        {
+            "nome": "MARCELLO CARVALHO",
+            "email": "marcelo.ccarvalho@grupomateus.com.br",
+            "telefone": "7599252154",
+            "cargo": "GERENTE COMERCIAL DE CATEGORIA"
+        },
+        {
+            "nome": "MARCOS VENICIUS DE SOUZA SANTOS",
+            "email": "marcos.souza@grupomateus.com.br",
+            "telefone": "7196938629",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "MARIA DA CONCEICAO RODRIGUES",
+            "email": "maria.rodrigues@grupomateus.com.br",
+            "telefone": "988186676",
+            "cargo": "COMPRADOR SENIOR"
+        },
+        {
+            "nome": "MARINA FRANCO GOMES DE REZENDE",
+            "email": "marina.rezende@grupomateus.com.br",
+            "telefone": "7192220982",
+            "cargo": "COMPRADOR SENIOR"
+        },
+        {
+            "nome": "MAURICIO SANTOS JUNIOR",
+            "email": "mauricio.sjunior@grupomateus.com.br",
+            "telefone": "8191807740",
+            "cargo": "GERENTE COMERCIAL DE CATEGORIA"
+        },
+        {
+            "nome": "MEIRE CARLA ANDRADE SANTANA DO ROSARIO",
+            "email": "meire.santana@grupomateus.com.br",
+            "telefone": "7196240494",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "MERCEDES LUCIA PEREIRA DE ARAUJO GOES",
+            "email": "mercedes.goes@grupomateus.com.br",
+            "telefone": "7184303526",
+            "cargo": "COMPRADOR SENIOR"
+        },
+        {
+            "nome": "MIDIAN LOPES PAULO DA SILVA",
+            "email": "midian.lopes@grupomateus.com.br",
+            "telefone": "7188094299",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "NADJA NARA SANTOS DE CARVALHO MENESES",
+            "email": "nadja.santos@grupomateus.com.br",
+            "telefone": "7191990868",
+            "cargo": "GERENTE COMERCIAL"
+        },
+        {
+            "nome": "NATALI PEREIRA CAMPELO",
+            "email": "natali.campelo@grupomateus.com.br",
+            "telefone": "7192945724",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "NATHALIA DE SOUZA OLIVEIRA",
+            "email": "nathalia.desouza@grupomateus.com.br",
+            "telefone": "7184608782",
+            "cargo": "ASSISTENTE DE COMPRAS DE ALCILENE"
+        },
+        {
+            "nome": "NEANDRO CAIO SANTOS BRENHA",
+            "email": "neandro.brenha@grupomateus.com.br",
+            "telefone": "9881960953",
+            "cargo": "GERENTE COMERCIAL"
+        },
+        {
+            "nome": "NILTON PEREIRA DE ALMEIDA",
+            "email": "nilton.almeida@grupomateus.com.br",
+            "telefone": "9984824672",
+            "cargo": "COMPRADOR PLENO"
+        },
+        {
+            "nome": "PABLO VICTOR LOPES ALEXANDRE",
+            "email": "pablo.alexandre@grupomateus.com.br",
+            "telefone": "9882295536",
+            "cargo": "GERENTE COMERCIAL DE CATEGORIA"
+        },
+        {
+            "nome": "PATRICIA DANTAS",
+            "email": null,
+            "telefone": "7193084926",
+            "cargo": "ASSISTENTE DE PASTA DE PRODUTOS"
+        },
+        {
+            "nome": "RAFAEL PEREIRA",
+            "email": "rafael.apereira@grupomateus.com",
+            "telefone": null,
+            "cargo": "ASSISTENTE DE MARCO AURÉLIO"
+        },
+        {
+            "nome": "RAIANE",
+            "email": null,
+            "telefone": "7598605241",
+            "cargo": "GERENTE BALCÃO DE ATACADO"
+        },
+        {
+            "nome": "RICARDO SOUZA DE MORAES",
+            "email": "ricardo.smoraes@grupomateus.com.br",
+            "telefone": "8596295381",
+            "cargo": "COMPRADOR SENIOR"
+        },
+        {
+            "nome": "RILLER ALBUQUERQUE",
+            "email": null,
+            "telefone": "7999972110",
+            "cargo": "GERENTE GERAL ARACAJU SE"
+        },
+        {
+            "nome": "ROSILENE LOPES SENA",
+            "email": "rosilene.sena@grupomateus.com.br",
+            "telefone": "7192924517",
+            "cargo": "COMPRADOR JUNIOR"
+        },
+        {
+            "nome": "ROSINALVA DIAS SANTOS",
+            "email": "rosinalva.santos@grupomateus.com.br",
+            "telefone": "7188152798",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "SANY CLEY COELHO DE SOUZA BRANDAO",
+            "email": "sany.brandao@grupomateus.com.br",
+            "telefone": "7199617697",
+            "cargo": "COMPRADOR SENIOR"
+        },
+        {
+            "nome": "SARA VIDAL",
+            "email": "sara.vidal@grupomateus.com.br",
+            "telefone": null,
+            "cargo": "ASSISTENTE RH"
+        },
+        {
+            "nome": "TACILA",
+            "email": null,
+            "telefone": "7187848783",
+            "cargo": "GERENTE COMERCIAL DE CATEGORIA"
+        },
+        {
+            "nome": "TAISMARA SOUZA LEANDRO",
+            "email": "taismara.leandro@grupomateus.com.br",
+            "telefone": "7186960078",
+            "cargo": "COMPRADOR JUNIOR"
+        },
+        {
+            "nome": "TAMARA CARDOSO MONTENEGRO",
+            "email": "tamara.oliveira@grupomateus.com.br",
+            "telefone": "7186292783",
+            "cargo": "COMPRADOR JUNIOR"
+        },
+        {
+            "nome": "THAESIL FERNANDO DOS SANTOS SILVA",
+            "email": "thaesil.silva@grupomateus.com",
+            "telefone": null,
+            "cargo": "GERENTE LOGÍSTICO ADM CD 336"
+        },
+        {
+            "nome": "THAIS CRISTINA CONCEICAO DANTAS",
+            "email": "thais.dantas@grupomateus.com.br",
+            "telefone": "7182341155",
+            "cargo": "ASSISTENTE DE COMPRAS"
+        },
+        {
+            "nome": "VALDINO DA SILVA MUNIZ",
+            "email": "valdino.muniz@grupomateus.com.br",
+            "telefone": "7193809022",
+            "cargo": "COMPRADOR SENIOR"
+        },
+        {
+            "nome": "VALDIR CARVALHO DIAS",
+            "email": "valdir.carvalho@grupomateus.com.br",
+            "telefone": "9881365275",
+            "cargo": "GERENTE REGIONAL DE VENDAS"
+        },
+        {
+            "nome": "VICTTOR FRANCISCO SERAFIN",
+            "email": "victtor.serafin@grupomateus.com.br",
+            "telefone": "9191951777",
+            "cargo": "GERENTE COMERCIAL DE CATEGORIA"
+        },
+        {
+            "nome": "VLADIA SPEROTTO KLEIN",
+            "email": "vladia.klein@grupomateus.com.br",
+            "telefone": "9888623847",
+            "cargo": "GERENTE COMERCIAL DE CATEGORIA"
+        },
+        {
+            "nome": "WESLEY",
+            "email": "",
+            "telefone": "9884113342",
+            "cargo": "GERENTE GERAL JUAZEIRO BA"
+        },
+        {
+            "nome": "WILLIAM CORREIA OLIVEIRA",
+            "email": "william.oliveira@grupomateus.com",
+            "telefone": "7481202702",
+            "cargo": "COORDENADOR PREVENÇÃO DE PERDAS JACOBINA BA"
+        },
+        {
+            "nome": "LUCIANO PINTO",
+            "email": "luciano.pinto@grupomateus.com",
+            "telefone": "7481176438",
+            "cargo": "GERENTE PREVENÇÃO DE PERDAS JUAZEIRO BA"
+        }
+    ]
+}
