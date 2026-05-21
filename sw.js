@@ -1,19 +1,20 @@
 const CACHE_NAME = "stoxen-cache-v0.0.1";
 
 const ASSETS_TO_CACHE = [
-  "stoxen/",
+  "/stoxen/",
   "/stoxen/index.html",
   "/stoxen/style/global.css",
-  "/assets/documents/arquivogerado.xlsx",
-  "/assets/documents/manual.pdf",
-  "/assets/image/shortcut.png",
+  "/stoxen/js/app.js",
+  "/stoxen/assets/documents/arquivogerado.xlsx",
+  "/stoxen/assets/documents/manual.pdf",
+  "/stoxen/assets/image/shortcut.png",
 
-  "json/ajustes.json",
-  "json/codigoComunicacao.json",
-  "json/contatos.json",
-  "json/escalaSemanal.json",
-  "json/infoAdicionais.json",
-  "json/trocaFornecedor.json"
+  "/stoxen/json/ajustes.json",
+  "/stoxen/json/codigoComunicacao.json",
+  "/stoxen/json/contatos.json",
+  "/stoxen/json/escalaSemanal.json",
+  "/stoxen/json/infoAdicionais.json",
+  "/stoxen/json/trocaFornecedor.json"
 ];
 
 // Instalação
