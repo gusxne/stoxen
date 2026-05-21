@@ -1,25 +1,25 @@
 {
     "name": "Stoxen",
     "short_name": "Stoxen",
-    "start_url": "/stoxen.github.io/index.html",
-    "scope": "/stoxen.github.io/",
+    "start_url": "/stoxen/index.html",
+    "scope": "/stoxen/",
     "display": "standalone",
     "background_color": "#000",
     "theme_color": "#fff",
     "description": "Ferramenta Desenvolvida Para Ajudar na Operação. Desde 13/01/2026",
     "icons": [
         {
-            "src": "/stoxen.github.io/assets/image/shortcut.png",
+            "src": "/stoxen/assets/image/shortcut.png",
             "sizes": "128x128",
             "type": "image/png"
         },
         {
-            "src": "/stoxen.github.io/assets/image/shortcut.png",
+            "src": "/stoxen/assets/image/shortcut.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/stoxen.github.io/assets/image/shortcut.png",
+            "src": "/stoxen/assets/image/shortcut.png",
             "sizes": "512x512",
             "type": "image/png"
         }

@@ -1,9 +1,9 @@
 const CACHE_NAME = "stoxen-cache-v0.0.1";
 
 const ASSETS_TO_CACHE = [
-  "/",
-  "/index.html",
-  "/style/global.css",
+  "stoxen/",
+  "/stoxen/index.html",
+  "/stoxen/style/global.css",
   "/assets/documents/arquivogerado.xlsx",
   "/assets/documents/manual.pdf",
   "/assets/image/shortcut.png",

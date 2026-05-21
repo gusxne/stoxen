@@ -1951,6 +1951,6 @@ async function gerarPDFVistoria() {
 
 if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
-        navigator.serviceWorker.register("sw.js").then(() => console.log("Service Worker Registrado com Sucesso!")).catch(err => console.log("Erro ao Carregar Service Worker:"));
+        navigator.serviceWorker.register("stoxen/sw.js").then(() => console.log("Service Worker Registrado com Sucesso!")).catch(err => console.log("Erro ao Carregar Service Worker:"));
     });
 }
